@@ -1,0 +1,96 @@
+#cabeçalho {
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+h1 {
+    /* Fonte Google Fonts */
+    font-family: 'Revalia', cursive;
+    font-size: 50px;
+}
+
+.jumbotron {
+    /* Fonte Google Fonts */
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 80px;
+}
+
+#lista_redes {
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+li {
+    padding: 8px;
+}
+
+main {
+    background-color: lightcyan;
+}
+
+#cursos {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: solid 2px black;
+    border-radius: 12px;
+    background-color: aliceblue;
+    padding: 6px;
+    display: flex;
+}
+
+.cursos {
+    margin: 5px;
+}
+
+.curso_lista {
+    /* Fonte Google Fonts */
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 25px;
+}
+
+.button {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-left: 90px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+#titulo_sobre {
+    /* Fonte Google Fonts */
+    font-family: 'Arsenal', sans-serif;
+    font-size: 70px;
+    text-align: center;
+}
+
+#sobre {
+    /* Fonte Google Fonts */
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: 20px;
+    text-align: left;
+    margin-bottom: 20px;
+    margin: 10px;
+}
+
+#collapse {
+    margin: 16px;
+}
+
+footer {
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
